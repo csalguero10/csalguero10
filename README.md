@@ -10,5 +10,5 @@ I’m currently learning Semantic Digital Libraries, Machine Learning, and Open 
 
 - 🔍 Check out my portfolio: https://catalinasalgueropalacino.myportfolio.com/
 
-- 📫 How to reach me:  If you’re interested in collaborating with Neogranadina, feel free to reach me out at catalina@neogranadina.org
+- 📫 If you’re interested in collaborating with Neogranadina, feel free to reach me out at catalina@neogranadina.org
 
